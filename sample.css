@@ -1,0 +1,102 @@
+* {
+    font-family: arial;
+    font-size: 13px;
+    background-color:lightpink;
+    font-size: 17px;
+    padding-bottom: 10px;
+  }
+  p{
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .align-center {
+    text-align: center;
+  }
+  
+  input.txt {
+    color:black;
+    padding-top: 5px;
+  
+    background-color: #E3F2F7;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  input.btn {
+    color: #00008B;
+    background-color: #ADD8E6;
+    border: 1px outset #00008B;
+  }
+  .product_name{
+border: 2px solid black;
+border-radius: 10px;
+width: 207px;
+background-color: #E3F2F7;
+  }
+ 
+  
+  form div {
+    clear: left;
+    margin: 0;
+    padding: 0;
+    padding-top: 0.9em;
+  }
+  
+  form div label {
+    float: left;
+    width: 20%;
+    font: bold 0.9em Arial, Helvetica, sans-serif;
+  }
+  input[type=reset]:hover{
+background-color:aqua;
+color: black;
+
+  }
+
+  input[type=reset]{
+  padding-bottom: 5px;
+border-radius: 5px;
+
+color: white;
+background-color: black;
+  }
+
+  #order:hover{
+    background-color:aqua;
+    color: black;
+      }
+      #order{
+          padding-bottom: 5px;
+          border-radius: 5px;
+          color: white;
+          background-color: black;
+      }
+    .delete:hover{
+        background-color:aqua;
+        color: black;
+        
+          }
+        
+          .delete{
+          padding-bottom: 5px;
+        border-radius: 5px;
+        
+        color: white;
+        background-color: black;
+          }
+        
+          #edit:hover{
+            background-color:aqua;
+            color: black;
+              }
+              #edit{
+                  padding-bottom: 5px;
+                  border-radius: 5px;
+                  color: white;
+                  background-color: black;
+              }
+              
+              td label{
+                font-weight: bold;
+              }
